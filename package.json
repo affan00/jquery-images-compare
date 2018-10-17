@@ -28,7 +28,7 @@
     "csslint": "^1.0.5",
     "jshint": "^2.9.5",
     "node-qunit-phantomjs": "^1.6.3",
-    "qunit": "^2.5.1",
+    "qunit": "^2.7.1",
     "uglify-js": "^3.3.16"
   },
   "scripts": {
